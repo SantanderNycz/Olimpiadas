@@ -1,4 +1,4 @@
-**Bem-vindo ao buscador de atletas olímpicos mais simples e divertido da galáxia! **
+** Desvendando Atletas - Imersão DEV com Google Gemini **
 
 Com essa aplicação, você pode encontrar facilmente informações sobre seus atletas brasileiros favoritos. Basta digitar o nome do atleta, esporte ou qualquer palavra-chave relacionada e pronto! ✨
 Como funciona?
